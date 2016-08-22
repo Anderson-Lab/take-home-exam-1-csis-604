@@ -1,0 +1,6 @@
+{
+  "name": "Take Home Exam 1",
+  "tagline": "CSIS 604 - Fall 2016",
+  "body": "### Part 1 - Get your VM working (75%)\r\n1. Download and install VirtualBox on your local computer or laptop (https://www.virtualbox.org/wiki/Downloads)\r\n2. Download Ubuntu Server (http://www.ubuntu.com/download/server). If you install the Desktop version, I send it back :)\r\n3. Create a new virtual machine and install Ubuntu Server.\r\n\r\n### Part 2 - Install Apache (25%)\r\n1. Use apt-get to install Apache, which is a basic web server\r\n2. Set up port-forwarding in Virtual Box, so you can see your new web-server by going to http://127.0.0.1:80/\r\n\r\nSee the Take Home Exam section on the syllabus for instructions on how to turn in this assignment.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
